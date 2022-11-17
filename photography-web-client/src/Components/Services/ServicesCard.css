@@ -1,0 +1,18 @@
+.image{
+  height: 300px;
+}
+
+.btn-book {
+  border: 3px solid gray;
+ 
+}
+
+.review-img img{
+  min-height: 10vh;
+}
+
+.height-div{
+  height: 100px;
+}
+
+

@@ -1,0 +1,65 @@
+.socialBG {
+  background-color: #FFF5F4;
+}
+
+.w1-10 {
+  width: 10%;
+}
+
+.socialTag {
+  font-size: 1.2rem;
+}
+
+.socialButton {
+  border: 0;
+  background-color: unset;
+  transition: 0.3s ease-in-out;
+}
+
+.socialButton:hover {
+  transform: scale(1.01);
+}
+
+.middleBorder {
+  border-right: 2px solid black;
+}
+.sideLink:hover{
+  color: #F66962;
+}
+  
+
+@media only screen and (max-width: 991px) {
+  .middleBorder {
+    border-right: none;
+  }
+  .headerTag{
+    text-align: center;
+  }
+
+  .headingTitle {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 900;
+  }
+
+  .navLogo {
+    width: 40%;
+  }
+
+  .sideBar{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height:100%;
+  position: unset;
+  top: 0px;
+  gap: 15px;
+  margin-top: 0px;
+  padding: 50px 50px 50px 110px;
+  text-decoration: none!important;
+}
+.sideLink:hover{
+  color: #F66962;
+}
+  
+}

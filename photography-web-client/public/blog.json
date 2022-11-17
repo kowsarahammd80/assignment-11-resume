@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "question": "Difference between SQL and NoSQL",
+        "answer": "SQL databases defines and manipulates data based structured query language (SQL). Seeing from a side this language is extremely powerful, A NoSQL database has dynamic schema for unstructured data. Data is stored in many ways which means it can be document-orientedData is stored in many ways which means it can be document-oriented"
+    },
+    {
+        "id": 2,
+        "question": "What is jwt and how it works?",
+        "answer": "JWT, or JSON Web Token, is an open standard used to share security information between two parties — a client and a server. Each JWT contains encoded JSON objects, Each JWT contains encoded JSON objects,including a set of claims. JWTs are signed using a cryptographic algorithm to ensure that the claims cannot be altered after the token is issued."
+    },
+    {
+        "id": 3,
+        "question": "what is the difference between js and node js?",
+        "answer": "JavaScript is a high-level programming language that makes our web pages and web applications dynamic and interactive by giving them the ability to think and act. JavaScript is a lightweight (easy to learn syntax) and object-oriented programming language whereas Node.js is a runtime environment built on google v8 engine and typically used to represent a list of objects and functions that JavaScript programs can access."
+    },
+    {
+        "id": 4,
+        "question": "How does NodeJS handle multiple requests at the same time?",
+        "answer": "NodeJS Web Server maintains a limited Thread Pool to provide services to client requests. Multiple clients make multiple requests to the NodeJS server. NodeJS receives these requests and places them into the EventQueue  NodeJS receives these requests and places them into the EventQueue  NodeJS receives these requests and places them into the EventQueue  NodeJS receives these requests and places them into the EventQueue ."
+    }
+]
